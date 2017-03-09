@@ -1,0 +1,26 @@
+
+.app {
+	
+
+}
+
+.SideBar {
+	display: block;
+	left: 0px;
+	width: 200px;
+	height: 700px;
+	background-color: grey;
+}
+
+
+.buttons {
+	display: block;
+	margin: 50px;
+
+
+}
+
+.inbox {
+	margin:0px;
+	padding: 0px;
+}
